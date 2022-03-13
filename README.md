@@ -3,7 +3,7 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=ariscik&color=red)&nbsp;
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/iKei-Wesly?label=follow&style=social)](https://github.com/iKei-Wesly)&nbsp;
-<a href="https://instagram.com/kei_wesly"><img src="https://img.shields.io/badge/@rysderler-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/kei_wesly"><img src="https://img.shields.io/badge/@kei_wesly-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
 https://discord.gg/1440
