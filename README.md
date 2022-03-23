@@ -6,7 +6,7 @@
 <a href="https://instagram.com/kei_wesly"><img src="https://img.shields.io/badge/@kei_wesly-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
-https://discord.gg/1440
+#YAKINDA
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
