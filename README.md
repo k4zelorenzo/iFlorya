@@ -1,8 +1,8 @@
 # Hi there , I'm KEİ 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/276781786925891585 )](https://discord.com/users/276781786925891585) 
+[![Discord Presence]( https://api.lanyard.rest/v1/users/:276781786925891585 )](https://discord.com/users/276781786925891585) 
 
-![profile count](https://komarev.com/ghpvc/?username=iKei-Wesly&color=red)&nbsp;
-[![GitHub JaylenOzi](https://img.shields.io/github/followers/iKei-Wesly?label=follow&style=social)](https://github.com/iKei-Wesly)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=iFlorya&color=red)&nbsp;
+[![GitHub JaylenOzi](https://img.shields.io/github/followers/iFlorya?label=follow&style=social)](https://github.com/iFlorya)&nbsp;
 <a href="https://instagram.com/kei_wesly"><img src="https://img.shields.io/badge/@kei_wesly-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
