@@ -1,5 +1,5 @@
-# Hi there , I'm KEİ 
-[![Discord Presence]( https://api.lanyard.rest/v1/users/:276781786925891585 )](https://discord.com/users/276781786925891585) 
+# Hi there , I'm Florya 
+[![Discord Presence]( https://api.lanyard.rest/v1/users/276781786925891585 )](https://discord.com/users/276781786925891585) 
 
 ![profile count](https://komarev.com/ghpvc/?username=iFlorya&color=red)&nbsp;
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/iFlorya?label=follow&style=social)](https://github.com/iFlorya)&nbsp;
